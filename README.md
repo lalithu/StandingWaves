@@ -2,7 +2,7 @@
 
 # StandingWaves
 
-https://github.com/lalithu
+https://lalithu.github.io/StandingWaves/
 
 ## License
 
